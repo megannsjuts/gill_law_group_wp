@@ -1,6 +1,6 @@
 <div class="awards">
 <div class="award">
-  <img src="wp-content/themes/gill-law-group/assets/src/img/svg/Asset 5.svg"/>
+  <img src="<?php bloginfo('template_url'); ?>/assets/src/img/svg/Asset 5.svg"/>
   <div class="content">
     <h2>2016 National Trial Lawyer's Association Top 100 Attorney - Civil Plaintiff</h2>
   </div>
