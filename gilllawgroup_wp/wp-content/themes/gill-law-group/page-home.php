@@ -14,7 +14,7 @@ get_header(); ?>
     <h1>Our Services</h1>
     <div class="grid">
     <div class="card">
-    	<img src="wp-content/themes/gill-law-group/assets/src/img/civil.jpg" class="responsive-image"/>
+    	<img src="<?php bloginfo('template_url'); ?>/assets/src/img/civil.jpg" class="responsive-image"/>
     	<div class="content">
     		<h2>Civil Cases</h2>
     		<p>From landlord and tenant cases to multimillion dollar lawsuits, we have the experience you can trust.</p>
@@ -22,7 +22,7 @@ get_header(); ?>
     </div>
 
     <div class="card">
-    	<img src="wp-content/themes/gill-law-group/assets/src/img/criminal.jpg" class="responsive-image"/>
+    	<img src="<?php bloginfo('template_url'); ?>/assets/src/img/criminal.jpg" class="responsive-image"/>
     	<div class="content">
     		<h2>Criminal Cases</h2>
     		<p>From traffic tickets to death penalty cases, misdemeanors to felonies, our attorneys have successfully handled all areas of criminal law.</p>
@@ -30,7 +30,7 @@ get_header(); ?>
     </div>
 
     <div class="card">
-    	<img src="wp-content/themes/gill-law-group/assets/src/img/bankruptcy.jpg" class="responsive-image"/>
+    	<img src="<?php bloginfo('template_url'); ?>/assets/src/img/bankruptcy.jpg" class="responsive-image"/>
     	<div class="content">
     		<h2>Bankruptcy</h2>
     		<p>Are you drowning in debt? From Chapter 7 to Chapter 13, our experienced attorneys can help you get out of debt and on with your life.</p>
@@ -38,7 +38,7 @@ get_header(); ?>
     </div>
 
     <div class="card">
-    	<img src="wp-content/themes/gill-law-group/assets/src/img/family.jpg" class="responsive-image"/>
+    	<img src="<?php bloginfo('template_url'); ?>/assets/src/img/family.jpg" class="responsive-image"/>
     	<div class="content">
     		<h2>Family Law</h2>
     		<p>During one of the most agonizing times of your life, you need attorneys with experience to help you through. Our award winning attorneys litigate divorce, custody, paternity, child support and adoption cases.</p>
@@ -46,7 +46,7 @@ get_header(); ?>
     </div>
 
     <div class="card">
-    	<img src="wp-content/themes/gill-law-group/assets/src/img/comp.jpg" class="responsive-image"/>
+    	<img src="<?php bloginfo('template_url'); ?>/assets/src/img/comp.jpg" class="responsive-image"/>
     	<div class="content">
     		<h2>Personal Injury / Worker's Compensation</h2>
     		<p>Our firm has helped individuals involved in serious accidents recover millions of dollars.  From auto accidents, worker's compensation to birth defects, put your case in the hands of experienced litigators.</p>
@@ -54,7 +54,7 @@ get_header(); ?>
     </div>
 
     <div class="card">
-    	<img src="wp-content/themes/gill-law-group/assets/src/img/realestate.jpg" class="responsive-image"/>
+    	<img src="<?php bloginfo('template_url'); ?>/assets/src/img/realestate.jpg" class="responsive-image"/>
     	<div class="content">
     		<h2>Real Estate</h2>
     		<p>No other local law firm handles more residential real estate transactions than The Gil Law Group. When you make the biggest purchase of your life, count on the firm with the most experience on your side.</p>
@@ -71,63 +71,63 @@ get_header(); ?>
     <?php get_template_part('partials/awards'); ?>
 
     <div class="team">
-    <img src="wp-content/themes/gill-law-group/assets/src/img/svg/Asset 6.svg"/>
+    <img src="<?php bloginfo('template_url'); ?>/assets/src/img/svg/Asset6.svg"/>
     <h1>Meet Our Legal Team</h1>
     <p>The Gil Law Group is one of the most respected law firms in the Chicagoland area dedicated to serving the legal needs of our community. Our attorneys are highly experienced and committed to preserving and protecting our clients’ rights. We strive to meet all of our clients’ needs and concerns, regardless of the complexity of the matter.</p>
     </div>
 
     <div class="grid">
     	<div class="card">
-    		<img src="wp-content/themes/gill-law-group/assets/src/img/gil.jpg" class="responsive-image"/>
+    		<img src="<?php bloginfo('template_url'); ?>/assets/src/img/gil.jpg" class="responsive-image"/>
     		<div class="content">
     			<h2>Eduardo J. Gill</h2>
     		</div>
     	</div>
 
     	<div class="card">
-    		<img src="wp-content/themes/gill-law-group/assets/src/img/smutzer.jpg" class="responsive-image"/>
+    		<img src="<?php bloginfo('template_url'); ?>/assets/src/img/smutzer.jpg" class="responsive-image"/>
     		<div class="content">
     			<h2>Jenniffer Smutzer</h2>
     		</div>
     	</div>
 
     	<div class="card">
-    		<img src="wp-content/themes/gill-law-group/assets/src/img/berrones.jpg" class="responsive-image"/>
+    		<img src="<?php bloginfo('template_url'); ?>/assets/src/img/berrones.jpg" class="responsive-image"/>
     		<div class="content">
     			<h2>Elizabeth Berrones</h2>
     		</div>
     	</div>
 
     	<div class="card">
-    		<img src="wp-content/themes/gill-law-group/assets/src/img/negron.jpg" class="responsive-image"/>
+    		<img src="<?php bloginfo('template_url'); ?>/assets/src/img/negron.jpg" class="responsive-image"/>
     		<div class="content">
     			<h2>Jesus Negron</h2>
     		</div>
     	</div>
 
     	<div class="card">
-    		<img src="wp-content/themes/gill-law-group/assets/src/img/gonzalez.jpg" class="responsive-image"/>
+    		<img src="<?php bloginfo('template_url'); ?>/assets/src/img/gonzalez.jpg" class="responsive-image"/>
     		<div class="content">
     			<h2>Edward Gonzalez</h2>
     		</div>
     	</div>
 
     	<div class="card">
-    		<img src="wp-content/themes/gill-law-group/assets/src/img/klein.jpg" class="responsive-image"/>
+    		<img src="<?php bloginfo('template_url'); ?>/assets/src/img/klein.jpg" class="responsive-image"/>
     		<div class="content">
     			<h2>Eliza Klein</h2>
     		</div>
     	</div>
 
     	<div class="card">
-    		<img src="wp-content/themes/gill-law-group/assets/src/img/marrerro.jpg" class="responsive-image"/>
+    		<img src="<?php bloginfo('template_url'); ?>/assets/src/img/marrerro.jpg" class="responsive-image"/>
     		<div class="content">
     			<h2>Samuel Marrero Jr.</h2>
     		</div>
     	</div>
 
     	<div class="card">
-    		<img src="wp-content/themes/gill-law-group/assets/src/img/sanchez.jpg" class="responsive-image"/>
+    		<img src="<?php bloginfo('template_url'); ?>/assets/src/img/sanchez.jpg" class="responsive-image"/>
     		<div class="content">
     			<h2>Julietta Sanchez</h2>
     		</div>

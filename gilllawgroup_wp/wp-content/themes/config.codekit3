@@ -10148,61 +10148,61 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/wp-content\/themes\/gill-law-group\/assets\/src\/img\/svg\/Asset 2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/gill-law-group\/assets\/src\/img\/svg\/Asset 2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/wp-content\/themes\/gill-law-group\/assets\/src\/img\/svg\/Asset 3.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/gill-law-group\/assets\/src\/img\/svg\/Asset 3.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/wp-content\/themes\/gill-law-group\/assets\/src\/img\/svg\/Asset 4.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/gill-law-group\/assets\/src\/img\/svg\/Asset 4.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/wp-content\/themes\/gill-law-group\/assets\/src\/img\/svg\/Asset 5.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/gill-law-group\/assets\/src\/img\/svg\/Asset 5.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/wp-content\/themes\/gill-law-group\/assets\/src\/img\/svg\/Asset 6.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/gill-law-group\/assets\/src\/img\/svg\/Asset 6.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/wp-content\/themes\/gill-law-group\/assets\/src\/img\/svg\/Asset1.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/wp-content\/themes\/gill-law-group\/assets\/src\/img\/svg\/Asset1.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/wp-content\/themes\/gill-law-group\/assets\/src\/img\/svg\/Asset2.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/gill-law-group\/assets\/src\/img\/svg\/Asset2.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/wp-content\/themes\/gill-law-group\/assets\/src\/img\/svg\/Asset3.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/gill-law-group\/assets\/src\/img\/svg\/Asset3.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/wp-content\/themes\/gill-law-group\/assets\/src\/img\/svg\/Asset4.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/gill-law-group\/assets\/src\/img\/svg\/Asset4.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/wp-content\/themes\/gill-law-group\/assets\/src\/img\/svg\/Asset5.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/gill-law-group\/assets\/src\/img\/svg\/Asset5.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/wp-content\/themes\/gill-law-group\/assets\/src\/img\/svg\/Asset6.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/gill-law-group\/assets\/src\/img\/svg\/Asset6.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -10359,18 +10359,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/wp-content\/themes\/gill-law-group\/page-home.php",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/gill-law-group\/page-lawyers.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/gill-law-group\/page-lawyers.php",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/gill-law-group\/page-services.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/gill-law-group\/page-services.php",
 		"oF": 0
 		},
 	"\/wp-content\/themes\/gill-law-group\/page.php": {

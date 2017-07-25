@@ -41,21 +41,21 @@ get_header(); ?>
 
     	<div class="partners">
     		<div class="team">
-    			<img src="wp-content/themes/gill-law-group/assets/src/img/svg/Asset 6.svg"/>
+    			<img src="<?php bloginfo('template_url'); ?>/assets/src/img/svg/Asset6.svg"/>
     			<h1>Meet Our Partners</h1>
     			<p>The Gil Law Group is one of the most respected law firms in the Chicagoland area dedicated to serving the legal needs of our community. Our attorneys are highly experienced and committed to preserving and protecting our clients’ rights. We strive to meet all of our clients’ needs and concerns, regardless of the complexity of the matter.</p>
     		</div>
 
     			<div class="grid">
     				<div class="card">
-    					<img src="wp-content/themes/gill-law-group/assets/src/img/gil.jpg" class="responsive-image"/>
+    					<img src="<?php bloginfo('template_url'); ?>/assets/src/img/gil.jpg" class="responsive-image"/>
     					<div class="content">
     						<h2>Eduardo J. Gill</h2>
     					</div>
     				</div>
 
     				<div class="card">
-    					<img src="wp-content/themes/gill-law-group/assets/src/img/smutzer.jpg" class="responsive-image"/>
+    					<img src="<?php bloginfo('template_url'); ?>/assets/src/img/smutzer.jpg" class="responsive-image"/>
     					<div class="content">
     						<h2>Jenniffer Smutzer</h2>
     					</div>

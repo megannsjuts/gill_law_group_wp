@@ -22,7 +22,7 @@
 		<div class="container">
 			<header>
 				<a href="<?php bloginfo('URL'); ?>">
-					<img class="logo" src="wp-content/themes/gill-law-group/assets/src/img/svg/Asset1.svg">
+					<img class="logo" src="<?php bloginfo('template_url'); ?>/assets/src/img/svg/Asset1.svg">
 				</a>
 				<nav>
 					<?php html5blank_nav() ?>
