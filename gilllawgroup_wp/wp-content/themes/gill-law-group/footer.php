@@ -3,11 +3,11 @@
 		<div class="locations">
 			<div class="location">
 				<h2>Locations</h2>
-				<p>605 N. Broadway Ave. | Aurora, IL 60505 | <a href="tel:+1-630-906-0144">Phone: 630-906-0144</a> | Fax: 630-906-0147</p>
+				<p>605 N. Broadway Ave. || Aurora, IL 60505 || <a href="tel:+1-630-906-0144">Phone: 630-906-0144</a> || Fax: 630-906-0147</p>
 			</div>
 
 			<div class="location">
-				<p>118 Main Street | West Chicago, IL 60185 | <a href="tel:+1-630-231-2248">Phone: 630-231-2248</a> | Fax: 630-231-6050</p>
+				<p>118 Main Street || West Chicago, IL 60185 || <a href="tel:+1-630-231-2248">Phone: 630-231-2248</a> || Fax: 630-231-6050</p>
 			</div>
 		</div>
 

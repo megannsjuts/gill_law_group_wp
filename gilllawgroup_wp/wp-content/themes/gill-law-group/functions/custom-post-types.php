@@ -64,7 +64,7 @@ function create_post_type_html5()
         ),
         'public' => true,
         'hierarchical' => false, // Allows your posts to behave like Hierarchy Pages
-        'has_archive' => true,
+        'has_archive' => false,
         'supports' => array(
             'title',
             'editor',
@@ -102,7 +102,7 @@ function create_post_type_html5()
         ),
         'public' => true,
         'hierarchical' => false, // Allows your posts to behave like Hierarchy Pages
-        'has_archive' => true,
+        'has_archive' => false,
         'supports' => array(
             'title',
             'editor',

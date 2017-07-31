@@ -27,7 +27,7 @@ get_header(); ?>
 						<div class="card">
 							<img src="<?php bloginfo('template_url'); ?>/assets/src/img/civil.jpg" class="responsive-image"/>
 							<div class="content">
-								<h2>Civil Cases</h2>
+								<h2><a href="http://gilllawgroup.dev/services/civil-cases/">Civil Cases</a></h2>
 								<p>From landlord and tenant cases to multimillion dollar lawsuits, we have the experience you can trust.</p>
 							</div>
 						</div>
@@ -35,7 +35,7 @@ get_header(); ?>
 						<div class="card">
 							<img src="<?php bloginfo('template_url'); ?>/assets/src/img/criminal.jpg" class="responsive-image"/>
 							<div class="content">
-								<h2>Criminal Cases</h2>
+								<h2><a href=" http://gilllawgroup.dev/services/criminal-cases/">Criminal Cases</a></h2>
 								<p>From traffic tickets to death penalty cases, misdemeanors to felonies, our attorneys have successfully handled all areas of criminal law.</p>
 							</div>
 						</div>
@@ -43,7 +43,7 @@ get_header(); ?>
 						<div class="card">
 							<img src="<?php bloginfo('template_url'); ?>/assets/src/img/bankruptcy.jpg" class="responsive-image"/>
 							<div class="content">
-								<h2>Bankruptcy</h2>
+								<h2><a href=" http://gilllawgroup.dev/services/bankruptcy/">Bankruptcy</a></h2>
 								<p>Are you drowning in debt? From Chapter 7 to Chapter 13, our experienced attorneys can help you get out of debt and on with your life.</p>
 							</div>
 						</div>

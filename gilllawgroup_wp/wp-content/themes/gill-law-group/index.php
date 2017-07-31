@@ -7,16 +7,16 @@
 		<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 
 			<div class="blog-post">
-				
+
 				<h2><a href="<?php the_permalink(); ?>"
-rel="bookmark" title="Permanent Link to <?php the_
-title_attribute(); ?>"><?php the_title(); ?></a></h2>
+rel="bookmark" title="Permanent Link to <?php the_title_attribute(); ?>"><?php the_title(); ?></a></h2>
 
       <?php echo get_post_meta($post->ID, 'PostThumb',
             true); ?>
 
+
       <p class="meta">
-        <span>Posted on</span> <?php the_time('F jS,
+        <span>Posted on</span> <?php echo get_the_time('F jS,
         Y'); ?> <span>by</span> <?php the_author(); ?>
 
       </p>

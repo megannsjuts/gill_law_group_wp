@@ -12,7 +12,7 @@ get_header(); ?>
 					<div class="banner6"></div>
 
 					<div class="firm">
-						<h1>Our Lawyers</h1>x
+						<h1>Our Lawyers</h1>
 					</div>
 
           <p class="lawyers">The Gil Law Group is one of the most respected law firms in the Chicagoland area dedicated to serving the legal needs of our community. Our attorneys are highly experienced and committed to preserving and protecting our clients’ rights. We strive to meet all of our clients’ needs and concerns, regardless of the complexity of the matter.</p>
@@ -31,21 +31,21 @@ get_header(); ?>
           	<div class="card">
           		<img src="<?php bloginfo('template_url'); ?>/assets/src/img/gil.jpg" class="responsive-image"/>
           		<div class="content">
-          			<h2>Eduardo J. Gill</h2>
+          			<h2><a href=" http://gilllawgroup.dev/lawyers/eduardo-j-gill/">Eduardo J. Gill</a></h2>
           		</div>
           	</div>
 
           	<div class="card">
           		<img src="<?php bloginfo('template_url'); ?>/assets/src/img/smutzer.jpg" class="responsive-image"/>
           		<div class="content">
-          			<h2>Jenniffer Smutzer</h2>
+          			<h2><a href=" http://gilllawgroup.dev/lawyers/jenniffer-smutzer/">Jenniffer Smutzer</a></h2>
           		</div>
           	</div>
 
           	<div class="card">
           		<img src="<?php bloginfo('template_url'); ?>/assets/src/img/berrones.jpg" class="responsive-image"/>
           		<div class="content">
-          			<h2>Elizabeth Berrones</h2>
+          			<h2><a href="http://gilllawgroup.dev/lawyers/elizabeth-berrones/">Elizabeth Berrones</a></h2>
           		</div>
           	</div>
 
