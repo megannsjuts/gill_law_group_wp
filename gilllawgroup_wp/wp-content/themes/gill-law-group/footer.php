@@ -14,7 +14,7 @@
 		<div class="contactus">
 		<h2>Contact Us</h2>
 		<div class="contact">
-			<a href="contact.html" class="consult">Free Consultation</a>
+			<a href="<?php bloginfo('url'); ?>/contact" class="consult">Free Consultation</a>
 		</div>
 
 		<div class="contact">

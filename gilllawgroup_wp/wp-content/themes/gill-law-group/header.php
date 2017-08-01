@@ -31,7 +31,7 @@
 
 		<div class="container">
 			<header>
-				<a href="<?php bloginfo('URL'); ?>">
+				<a href="<?php bloginfo('url'); ?>">
 					<img class="logo" src="<?php bloginfo('template_url'); ?>/assets/src/img/svg/Asset1.svg">
 				</a>
 				<nav>

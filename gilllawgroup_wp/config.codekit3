@@ -27783,6 +27783,18 @@
 		"oAP": "\/wp-content\/themes\/gill-law-group\/sidebar.php",
 		"oF": 0
 		},
+	"\/wp-content\/themes\/gill-law-group\/single-lawyers.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/gill-law-group\/single-lawyers.php",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/gill-law-group\/single-services.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/gill-law-group\/single-services.php",
+		"oF": 0
+		},
 	"\/wp-content\/themes\/gill-law-group\/single.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -28159,12 +28171,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/wp-content\/wflogs\/config.php",
-		"oF": 0
-		},
-	"\/wp-content\/wflogs\/config.tmp.EYa280": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/wflogs\/config.tmp.EYa280",
 		"oF": 0
 		},
 	"\/wp-content\/wflogs\/ips.php": {
