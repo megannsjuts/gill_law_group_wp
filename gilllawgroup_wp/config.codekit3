@@ -27,6 +27,12 @@
 		"oAP": "\/license.txt",
 		"oF": 0
 		},
+	"\/local-config.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/local-config.php",
+		"oF": 0
+		},
 	"\/readme.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -27740,6 +27746,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/wp-content\/themes\/gill-law-group\/partials\/searchform.php",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/gill-law-group\/README.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/gill-law-group\/README.html",
 		"oF": 0
 		},
 	"\/wp-content\/themes\/gill-law-group\/README.md": {

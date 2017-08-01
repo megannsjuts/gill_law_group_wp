@@ -5,9 +5,10 @@
 
   <main class="main">
 	<!-- section -->
-	<section>
+	<section class="blog">
 
 	<?php if (have_posts()): while (have_posts()) : the_post(); ?>
+
 
 		<!-- article -->
 		<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
@@ -19,6 +20,9 @@
 				</a>
 			<?php endif; ?>
 			<!-- /post thumbnail -->
+
+      <?php get_sidebar(); ?>
+
 
 			<!-- post title -->
 			<h1>
@@ -69,8 +73,5 @@
 	<!-- /section -->
 	</main>
 </div>
-
-
-<?php get_sidebar(); ?>
 
 <?php get_footer(); ?>

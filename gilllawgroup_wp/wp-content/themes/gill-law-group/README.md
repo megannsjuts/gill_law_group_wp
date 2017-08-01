@@ -1,9 +1,4 @@
-# ahha-susy
-
-Theme broiler plate for rapidly developing your custom WordPress themes.
-
-* Project: [github.com/ahaywood/ahha-susy](https://github.com/ahaywood/ahha-susy)
-* Author : [Amy (Haywood) Dutton](http://www.amyhaywood.com) // [@ahaywood](http://twitter.com/ahaywood)
+# The Gill Law Group
 
 This is a fork from Todd Motto's HTML5 Blank theme:
 
@@ -12,54 +7,18 @@ This is a fork from Todd Motto's HTML5 Blank theme:
 * Twitter: [@html5blank](http://twitter.com/html5blank)
 * Author : [Todd Motto](http://toddmotto.com) // [@toddmotto](http://twitter.com/toddmotto)
 
-It has been customized to include:
-* My SASS broiler plate structure
-* My default JavaScript file
-* My Gulp broiler plate
-* Includes [PatternLab](http://patternlab.io/)
-* Includes [Susy](http://susydocs.oddbird.net/en/latest/)
+# Dependencies
+If you do not already, you may need the following installed on your computer:
 
-## Requirements
-1. Bower
-2. Node.js
-3. Ruby 1.9+
+* [Node](https://nodejs.org/en/download/)
+* [Bower](https://bower.io/#install-bower)
+* [Gulp](https://www.npmjs.com/package/gulp-install)
+* [Yarn](https://yarnpkg.com/lang/en/docs/install/)
 
-## QuickStart
+However, I used [Codekit](https://codekitapp.com) when developing this site and it does much of what the above packages offer. Codekit will compile every coding language, refresh browsers automatically as you work, optimize images, and more.
 
-1. Clone the repo
-2. Run `bower install`
-3. Run `npm install`
+# QuickStart
 
-## Getting Started
-1. Rename the project name and GitHub directory within **package.json**
-2. Rename the project name within **bower.json**
-3. In **gulpfile.js**, change the local site on lines 124 and 125
-4. Update the WordPress theme information in **styles.css**
-
----
-
-# File structure
-
-## The assets folder
-
-## The functions folder
-
-## The partials folder
-
----
-
-# gulpfile.js
-
----
-
-# bower
-
----
-
-# JavaScript
-
----
-
-# Sass
-
-## The Scss Linter (.scss-lint.yml)
+1. Clone this repository.
+2. Navigate to your project folder within the Terminal.
+3. Drag project folder into Codekit and adjust any settings if necessary.

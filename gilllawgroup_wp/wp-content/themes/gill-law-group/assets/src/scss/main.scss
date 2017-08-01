@@ -414,6 +414,7 @@ a {
 	p {
 		line-height: 25px;
 		margin-bottom: 30px;
+		padding: 0 30px 0 30px;
 	}
 }
 
@@ -678,7 +679,7 @@ footer {
 	padding-left: 20px;
 }
 .history p {
-		padding: 5px 20px 5px 20px;
+		padding: 5px 50px 5px 50px;
 		line-height: 28px;
 		font-size: 14px;
 
@@ -688,10 +689,6 @@ footer {
 		color: $light-blue;
 		font-weight: bold;
 		margin-bottom: 30px;
-	}
-
-	.partners {
-		margin-bottom: 60px;
 	}
 
 	.grid {
@@ -1039,7 +1036,9 @@ article {
 	padding-bottom: 30px;
 }
 
-.sidebar {
-	float: right;
+.sidebar-widget {
 	background-color: white;
+	float: right;
+	width: 30%;
+	padding: 10px 30px;
 }
